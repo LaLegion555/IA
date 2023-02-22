@@ -1,3 +1,4 @@
+#hecho por LaLegion555
 import speech_recognition as sr
 import pyttsx3
 import pywhatkit
@@ -153,3 +154,5 @@ def run():
 # Iniciador
 if __name__ == "__main__":
     run()
+    
+#hecho por LaLegion555
